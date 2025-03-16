@@ -427,7 +427,7 @@ body {
     }
     .section3 {
         width: 90%;
-        height: auto;
+        height: 200px;
         margin-left: 5%;
         margin-top: 700px;
     }
@@ -436,6 +436,6 @@ body {
     }
     .section3 .social a{
         margin: 1%;
-        padding: 3%;
+        padding: 2%;
     }
 }
