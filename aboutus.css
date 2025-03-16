@@ -364,7 +364,7 @@ body {
         margin: auto;
         margin-top: 190px;
         left: 5%;
-        right: 5%;
+        margin-right: -5%;
         float: none;
         width: 100%;
         display: block;
