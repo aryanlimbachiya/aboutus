@@ -347,6 +347,7 @@ body {
     body {
         justify-content: center;
         align-items: center;
+        overflow-x: hidden;
     }
     .box {
         width: 100%;
